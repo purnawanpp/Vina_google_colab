@@ -1,0 +1,24 @@
+.TH AUTODOCK "1" "November 2010" "AutoDock Vina PDBQT Split 1.1.1 (Apr 20, 2010)"
+.SH NAME
+vina_split \- manual page for AutoDock Vina PDBQT Split 1.1.1 (Apr 20, 2010)
+.SH DESCRIPTION
+.SS "Input:"
+.TP
+\fB\-\-input\fR arg
+input to split (PDBQT)
+.SS "Output (optional) - defaults are chosen based on the input file name:"
+.TP
+\fB\-\-ligand\fR arg
+prefix for ligands
+.TP
+\fB\-\-flex\fR arg
+prefix for side chains
+.SS "Information (optional):"
+.TP
+\fB\-\-help\fR
+print this message
+.TP
+\fB\-\-version\fR
+print program version.
+.SH "SEE ALSO"
+AutoDock Vina home page on http://vina.scripps.edu.
