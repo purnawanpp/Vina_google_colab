@@ -4,10 +4,10 @@
 3. Don't Forget to rename this "vina_1.2.3_linux_x86_64" to "vina"
 
 # Prepare your protein and ligand 
-Please read this tutorial to get protein and ligand with format .pdbqt file "https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf"
+Please read this tutorial to get _protein_ and _ligand_ with format .pdbqt file "https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf"
 
 # Upload your file
 1. Upload your file "vina" and "vina_split" in google colab and _protein_ format ".pdbqt" and _ligand_ format ".pdbqt"
-2. Please read .ipynb file to get the code
+2. Please read https://github.com/purnawanpp/installvina2021/blob/main/vina2021_colab.ipynb to get the code
 
 
