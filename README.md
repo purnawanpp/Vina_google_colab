@@ -6,6 +6,9 @@
 # Prepare your protein and ligand 
 Please read this tutorial to get _protein_ and _ligand_ with format .pdbqt file "https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf"
 
+# To get grid box.txt 
+Please read this method https://github.com/purnawanpp/redocking-6pib/blob/main/README.md
+
 # Upload your file
 1. Upload your file "vina" and "vina_split", 'grid.txt' and _protein_ format ".pdbqt" and _ligand_ format ".pdbqt in google colab"
 2. Please read https://github.com/purnawanpp/installvina2021/blob/main/vina2021_colab.ipynb to get the code
