@@ -6,7 +6,7 @@
 # Prepare your protein and ligand 
 Please read this tutorial to get _protein_ and _ligand_ with format .pdbqt file "https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf"
 
-# To get grid box.txt 
+# To get grid box "grid.txt" 
 Please read this method https://github.com/purnawanpp/redocking-6pib/blob/main/README.md
 
 # Upload your file
