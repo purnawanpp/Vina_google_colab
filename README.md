@@ -7,7 +7,7 @@
 Please read this tutorial to get protein and ligand with format .pdbqt file "https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf"
 
 # Upload your file
-1. Upload your file "vina" and vina_split in google colab and protein format .pdbqt and ligand format .pdbqt
+1. Upload your file "vina" and "vina_split" in google colab and _protein_ format ".pdbqt" and _ligand_ format ".pdbqt"
 2. please read .ipynb file to get the code
 
 
