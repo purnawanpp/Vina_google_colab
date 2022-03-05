@@ -3,7 +3,7 @@
 1. Code to install Autodock Vina ver 2021 in Google Colab
 2. First Download Vina Execution File in this link "https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_linux_x86_64"
 3. Don't Forget to rename this "vina_1.2.3_linux_x86_64" to "vina"
-4. Vina just provided in https://github.com/purnawanpp/Vina2021-googlecolab/blob/main/vina2021_colab.ipynb just download it.
+4. Vina just provided in https://github.com/purnawanpp/Vina_google_colab/blob/main/vina_6pib_colab.ipynb just download it.
 
 # Prepare your protein and ligand 
 Please read this tutorial to get _protein_ and _ligand_ with format .pdbqt file "https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf"
