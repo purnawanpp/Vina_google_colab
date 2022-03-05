@@ -12,6 +12,6 @@ Please read this method https://github.com/purnawanpp/redocking-6pib/blob/main/R
 
 # Upload your file
 1. Upload your file 'grid.txt' and _protein_ format ".pdbqt" and _ligand_ format ".pdbqt in google colab"
-2. Please read https://github.com/purnawanpp/Vina2021-googlecolab/blob/main/vina2021_colab.ipynb to get the code
+2. Please read https://github.com/purnawanpp/Vina_google_colab/blob/main/vina_6pib_colab.ipynb to get the code
 
 
