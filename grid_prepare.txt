@@ -1,0 +1,4 @@
+4ieh_protein
+spacing    0.375
+npts       50 40 40
+center    12.153 25.794 11.850
