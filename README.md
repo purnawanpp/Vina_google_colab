@@ -1,5 +1,5 @@
 # Tutorial Molecular Docking Using Autodock Vina in Google Colab 
-1. Video Tutorial: https://youtu.be/M3zbHAduB3E
+1. Video Tutorial: https://youtu.be/gM_D5TUGIWQ
 2. Vina running in google colab:https://github.com/purnawanpp/Vina_google_colab/blob/main/Vina_4ieh_Google_colab.ipynb just download it.
 3. Open file Vina_4ieh_Google_colab.ipynb in google colab
 
